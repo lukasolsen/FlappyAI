@@ -1,0 +1,7 @@
+- Project Owner and Modifier: Lukas / Me
+
+- Source Owner (Originally created by): Tech With Tim (https://www.youtube.com/@TechWithTim)
+
+NOTE: I copied the source code from Tech With Tim, but modified it a bit and made it work very well. 
+You can find the entire tutorial and source code from his channel. 
+I strongly recommend that you go check it out.
