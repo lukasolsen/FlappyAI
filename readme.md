@@ -27,7 +27,7 @@ FlappyAI is an artificial intelligence (AI) model that has been trained to play 
 
   
 
-The AI has been trained on a dataset of several thousand games, and has been tested on several hundred more. The AI has been able to achieve a high level of performance and is able to successfully play the game at a very high level.
+The AI has been able to achieve a high level of performance and is able to successfully play the game at a very high level.
 
   
 
@@ -41,13 +41,13 @@ To use FlappyAI, you will need to have the following modules installed:
 
 - neat-python
 
-- graphviz
+- matplotlib
 
   
 
 You can install these modules by running the following command:
 
-    pip install pygame neat-python graphviz
+    pip install pygame neat-python matplotlib
    
 ## API 
 We have also implemented a simple API that allows you to interact with the AI and access its functionality. Here is an example of how you can use the API in Python: 
@@ -86,7 +86,7 @@ We would like to thank Tech With Tim for providing the original source code for 
 -   Instagram: [@techwithtim](https://www.instagram.com/techwithtim/)
 -   Website: [techwithtim.net](https://techwithtim.net/)
 
-We would also like to thank the creators of the NEAT algorithm, Kenneth O. Stanley and Risto Miikkulainen for their work on the algorithm. You can find a guide to the NEAT algorithm here: [A guide to the NEAT Algorithm](https://www.techwithtim.net/tutorials/neat-algorithm/)
+We would also like to thank the creators of the NEAT algorithm, Kenneth O. Stanley and Risto Miikkulainen for their work on the algorithm. You can find a guide to the NEAT algorithm here: [A guide to the NEAT Algorithm](https://neat-python.readthedocs.io/en/latest/)
 
 ## Contribution
 
