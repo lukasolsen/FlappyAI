@@ -13,11 +13,7 @@ FlappyAI is a modified and edited version of the original Flappy Bird AI created
 
 ##  Team
 
-- Developer 1
-
-- Developer 2
-
-- Developer 3
+- Lukas (Me)
 
   
 
